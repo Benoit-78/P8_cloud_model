@@ -1,6 +1,6 @@
 # P8_cloud_model
 
-Objective is to build a prototype of a cloud application that enables analysis of fruits pictures.
+Objective is to build the prototype of a cloud application that enables analysis of fruits pictures.
 
 Learning goals are:
 - implementation of a cloud environment;
